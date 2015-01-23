@@ -10,16 +10,19 @@ h1 {
   line-height: 1;
 }
 
+ol {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+
 ul{
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
-  text-decoration: underline;
 }
 
 p{
   text-align left;
   font-family: 'Oswald', sans-serif;
-  font-weight: thin 300;
+  font-weight: thin;
 }
 
 .intro {
@@ -31,3 +34,14 @@ b{
   font-weight: bold;
   font-family: 'Oswald', sans-serif;
   }
+
+.quote {
+  font-size: 2rem;
+  font-family: 'Oswald', sans-serif;
+}
+
+footer {
+  font-size:
+  ont-weight: thin;
+  font-family: 'Oswald', sans-serif;
+}
