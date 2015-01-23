@@ -1,0 +1,11 @@
+html {
+  background-color: #251c4c;
+  color: #fff;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: 'Oswald', sans-serif;
+  line-height: 1;
+}
